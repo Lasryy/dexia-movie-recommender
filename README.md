@@ -1,7 +1,7 @@
 # Dexia — Offline Movie Recommender
 
 <p align="center">
-  <img src="assets/icon.png" alt="Dexia icon" width="120">
+  <img src="assets/icon-dexia.png" alt="Dexia icon" width="120">
 </p>
 
 Mobile movie recommendation application built with **React Native**, **TypeScript**, **Expo** and **SQLite**.
