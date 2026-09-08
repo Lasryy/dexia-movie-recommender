@@ -27,7 +27,7 @@ The onboarding flow lets users select their preferred genres before the recommen
 ### Swipe-based recommendation experience
 
 <p align="center">
-  <img src="assets/readme/swipe-demo.gif" alt="Dexia swipe-based movie recommendation screen" width="300">
+  <img src="assets/readme/swipe-demo-v2.gif" alt="Dexia swipe-based movie recommendation screen" width="300">
 </p>
 
 The main discovery flow uses swipe interactions to collect feedback and progressively refine recommendations.
@@ -234,7 +234,7 @@ dexia-movie-recommender/
 │   ├── icon.png
 │   └── readme/
 │       ├── favorite-genres.gif
-│       └── swipe-demo.gif
+│       └── swipe-demo-v2.gif
 │
 ├── backend/
 │   ├── database.db
@@ -531,7 +531,7 @@ L'onboarding permet à l'utilisateur de sélectionner ses genres préférés ava
 ### Expérience de recommandation par swipe
 
 <p align="center">
-  <img src="assets/readme/swipe-demo.gif" alt="Interface de recommandation par swipe de Dexia" width="300">
+  <img src="assets/readme/swipe-demo-v2.gif" alt="Interface de recommandation par swipe de Dexia" width="300">
 </p>
 
 La découverte principale repose sur une interface de swipe permettant de collecter les retours de l'utilisateur et d'affiner progressivement les recommandations.
@@ -735,7 +735,7 @@ dexia-movie-recommender/
 │   ├── icon.png
 │   └── readme/
 │       ├── favorite-genres.gif
-│       └── swipe-demo.gif
+│       └── swipe-demo-v2.gif
 │
 ├── backend/
 │   ├── database.db
