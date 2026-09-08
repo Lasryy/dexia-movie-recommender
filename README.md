@@ -477,7 +477,7 @@ Dexia showcases experience with:
 # Dexia — Recommandation de films hors ligne
 
 <p align="center">
-  <img src="assets/icon.png" alt="Icône Dexia" width="120">
+  <img src="assets/icon-dexia.png" alt="Icône Dexia" width="120">
 </p>
 
 Application mobile de recommandation de films développée avec **React Native**, **TypeScript**, **Expo** et **SQLite**.
