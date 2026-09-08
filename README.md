@@ -1,12 +1,42 @@
 # Dexia — Offline Movie Recommender
 
 <p align="center">
-  <img src="assets/icon-dexia.png" alt="Dexia icon" width="120">
+  <img src="assets/icon.png" alt="Dexia icon" width="120">
 </p>
 
-Mobile movie recommendation application built with **React Native**, **TypeScript**, **Expo** and **SQLite**.
+<p align="center">
+  Mobile movie recommendation application built with <strong>React Native</strong>, <strong>TypeScript</strong>, <strong>Expo</strong> and <strong>SQLite</strong>.
+</p>
 
-Dexia runs primarily from a local movie database and adapts recommendations from user interactions, combining targeted suggestions with deliberate discovery to avoid showing only the same kinds of films.
+<p align="center">
+  Dexia runs primarily from a local movie database and adapts recommendations from user interactions, combining targeted suggestions with deliberate discovery to avoid repetitive recommendations.
+</p>
+
+---
+
+## Preview
+
+### Favorite genres selection
+
+<p align="center">
+  <img src="assets/readme/favorite-genres.gif" alt="Dexia favorite genres selection screen" width="300">
+</p>
+
+The onboarding flow lets users select their preferred genres before the recommendation engine starts adapting to their interactions.
+
+### Swipe-based recommendation experience
+
+<p align="center">
+  <img src="assets/readme/swipe-demo.gif" alt="Dexia swipe-based movie recommendation screen" width="300">
+</p>
+
+The main discovery flow uses swipe interactions to collect feedback and progressively refine recommendations.
+
+### Demo video
+
+A longer walkthrough of the project is available on YouTube:
+
+[Watch the video demo](https://www.youtube.com/watch?v=xhrPfPFlkgo)
 
 ---
 
@@ -202,7 +232,9 @@ dexia-movie-recommender/
 ├── assets/
 │   ├── database.db
 │   ├── icon.png
-│   └── ...
+│   └── readme/
+│       ├── favorite-genres.gif
+│       └── swipe-demo.gif
 │
 ├── backend/
 │   ├── database.db
@@ -477,12 +509,38 @@ Dexia showcases experience with:
 # Dexia — Recommandation de films hors ligne
 
 <p align="center">
-  <img src="assets/icon-dexia.png" alt="Icône Dexia" width="120">
+  <img src="assets/icon.png" alt="Icône Dexia" width="120">
 </p>
 
 Application mobile de recommandation de films développée avec **React Native**, **TypeScript**, **Expo** et **SQLite**.
 
 Dexia fonctionne principalement à partir d'une base de films locale et adapte progressivement ses recommandations aux interactions de l'utilisateur, tout en conservant une part volontaire de découverte.
+
+---
+
+## Aperçu
+
+### Sélection des genres préférés
+
+<p align="center">
+  <img src="assets/readme/favorite-genres.gif" alt="Écran de sélection des genres préférés de Dexia" width="300">
+</p>
+
+L'onboarding permet à l'utilisateur de sélectionner ses genres préférés avant que le moteur de recommandation commence à s'adapter à ses interactions.
+
+### Expérience de recommandation par swipe
+
+<p align="center">
+  <img src="assets/readme/swipe-demo.gif" alt="Interface de recommandation par swipe de Dexia" width="300">
+</p>
+
+La découverte principale repose sur une interface de swipe permettant de collecter les retours de l'utilisateur et d'affiner progressivement les recommandations.
+
+### Vidéo de démonstration
+
+Une présentation plus longue du projet est disponible sur YouTube :
+
+[Voir la vidéo de démonstration](https://www.youtube.com/watch?v=xhrPfPFlkgo)
 
 ---
 
@@ -675,7 +733,9 @@ dexia-movie-recommender/
 ├── assets/
 │   ├── database.db
 │   ├── icon.png
-│   └── ...
+│   └── readme/
+│       ├── favorite-genres.gif
+│       └── swipe-demo.gif
 │
 ├── backend/
 │   ├── database.db
